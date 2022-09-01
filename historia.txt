@@ -5,3 +5,5 @@ Freddy Vega tiene 32 años y nació en Colombia
 Mañana nos enfocaremos en su vida laboral
 
 Estoy en la rama hotswap y este es el primer commit
+
+Hola soy Anita, o Smily Face y este es mi primer commit
