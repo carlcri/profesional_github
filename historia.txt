@@ -7,3 +7,5 @@ Mañana nos enfocaremos en su vida laboral
 Estoy en la rama hotswap y este es el primer commit
 
 Hola soy Anita, o Smily Face y este es mi primer commit
+
+Soy Freddy, y soy el encargado del Header
